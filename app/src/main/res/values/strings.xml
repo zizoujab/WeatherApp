@@ -7,4 +7,6 @@
     <string name="title_activity_maps">MapsActivity</string>
     <string name="title_activity_map2">MapActivity2</string>
     <string name="google_maps">maps</string>
+    <string name="hanen">hanen</string>
+
 </resources>
