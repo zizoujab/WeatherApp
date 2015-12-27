@@ -14,5 +14,9 @@ public final  class WeatherContract {
         public static final String COLUMN_NAME_HIGH_LOW = "hight_low";
     }
 
+    public static abstract class LocationEntry implements BaseColumns{
+
+    }
+
 
 }

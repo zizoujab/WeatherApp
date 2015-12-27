@@ -12,6 +12,7 @@ public class Weather {
     public Weather(){
 
     }
+    
     public Weather(int _ID, String day, String hightLow, String description) {
         this._ID = _ID;
         this.day = day;
